@@ -1,0 +1,5 @@
+{
+  "name": "COPD Online Learning and Breathing Exercises",
+  "description": "An interactive web application providing online lessons, breathing exercises, and quizzes for patients with Chronic Obstructive Pulmonary Disease (COPD) to promote self-efficacy.",
+  "requestFramePermissions": []
+}
